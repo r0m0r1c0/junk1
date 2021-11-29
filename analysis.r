@@ -6,3 +6,5 @@ data/
 .pdf
 
 summary (X)
+
+summary(y)
